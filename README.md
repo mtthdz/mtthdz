@@ -1,4 +1,4 @@
-### Hi! I'm Matt (he/him) 👋
+### Hi! I'm Matt 👋
 
 - I'm a Software Developer with a focus on TypeScript and React Native
 - While I work with TypeScript, I've also worked with PHP, Python, and Ruby
